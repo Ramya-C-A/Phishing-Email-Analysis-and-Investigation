@@ -1,0 +1,23 @@
+Return-Path: <bounce@marketing-offers-xyz.com>
+Received: from ://marketing-offers-xyz.com (192.0.2.145)
+        by ://yourcompany.com with ESMTP id 12345abc;
+        Wed, 11 Nov 2026 09:15:00 +0530
+Authentication-Results: ://yourcompany.com;
+        spf=fail (sender IP is 192.0.2.145) smtp.mailfrom=marketing-offers-xyz.com;
+        dkim=none;
+        dmarc=fail (p=REJECT)
+From: "IT Helpdesk" <support@yourcompany.com>
+Reply-To: <admin-reset@secure-login-verify.net>
+To: <rahul.sharma@yourcompany.com>
+Subject: URGENT: Your Office 365 Password Expires in 2 Hours!
+Date: Wed, 11 Nov 2026 09:14:55 +0530
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<p>Dear Employee,</p>
+<p>Your corporate password will expire today. Click below immediately to keep your current password and avoid account lockout:</p>
+<p><a href="http://secure-login-verify.net">Reset Password Now</a></p>
+<p>Regards,<br>IT Support Team</p>
+</body>
+</html>

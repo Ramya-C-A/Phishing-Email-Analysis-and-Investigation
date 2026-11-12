@@ -1,0 +1,6 @@
+timestamp,sender,recipient,subject,action
+2026-11-11 09:15:00,support@yourcompany.com,rahul.sharma@yourcompany.com,URGENT: Your Office 365 Password Expires in 2 Hours!,Delivered
+2026-11-11 09:15:02,support@yourcompany.com,priya.patel@yourcompany.com,URGENT: Your Office 365 Password Expires in 2 Hours!,Delivered
+2026-11-11 09:15:05,support@yourcompany.com,amit.verma@yourcompany.com,URGENT: Your Office 365 Password Expires in 2 Hours!,Blocked
+2026-11-11 09:20:10,newsletter@amazon.in,rahul.sharma@yourcompany.com,Your Order Has Shipped,Delivered
+2026-11-11 09:25:44,hr@yourcompany.com,priya.patel@yourcompany.com,Holiday Calendar 2026,Delivered

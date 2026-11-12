@@ -1,0 +1,5 @@
+timestamp,user,src_ip,url,status
+2026-11-11 09:16:00,rahul.sharma,10.0.1.15,https://google.com,200
+2026-11-11 09:18:22,priya.patel,10.0.1.22,http://secure-login-verify.net
+2026-11-11 09:19:05,priya.patel,10.0.1.22,http://secure-login-verify.net
+2026-11-11 09:22:10,amit.verma,10.0.1.30,https://github.com,200
